@@ -1,1 +1,19 @@
-
+{
+"ID": 4245,
+"Title": "Bug Report",
+"Description": "null",
+"Preconditions": "null",
+"Steps to reproduce":[
+  "step1"
+  "step2"
+  "step3"
+  ]
+"Actual result": "null",
+"Expected result": "null",
+"Severity": "minor"
+"Priority": "medium"
+"Environment": "null",
+"Version": "null",
+"Attachment": "null",
+"Status": "testing"
+}
