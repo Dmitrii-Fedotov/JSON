@@ -4,10 +4,10 @@
 "Description": "null",
 "Preconditions": "null",
 "Steps to reproduce":[
-  "step1"
-  "step2"
-  "step3"
-  ]
+  "step1",
+  "step2",
+  "step3",
+  ],
 "Actual result": "null",
 "Expected result": "null",
 "Severity": "minor"
